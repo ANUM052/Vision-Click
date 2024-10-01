@@ -1,7 +1,4 @@
-
-
 # IMPORTING LIBRARIES
-
 
 #importing imutils and dlib for determination of face landmarks
 from imutils import face_utils 
