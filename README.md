@@ -2,7 +2,7 @@
 
 Cursor Control with Face and Eye Movement
 <br>
-Requirements : <br>
+<b>Requirements : <b><br>
 numpy<br>
 scipy<br>
 matplotlib<br>
