@@ -1,3 +1,3 @@
 # Vision-Click
 
-Cursor Control with Face and Eye Movement
+Cursor Control with Face and Eye Movements
